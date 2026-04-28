@@ -1,6 +1,6 @@
 app_name = "ksa_master"
 app_title = "Ksa Master"
-app_publisher = "jan"
+app_publisher = "Jan"
 app_description = "Ksa Master"
 app_email = "janlloyd@teambackoffice.com"
 app_license = "mit"
