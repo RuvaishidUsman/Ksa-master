@@ -141,6 +141,9 @@ doc_events = {
 	 "Address": {
         "after_insert": "ksa_master.doc_events.address.after_insert_address"
     },
+	"Contact": {
+		"after_insert": "ksa_master.doc_events.contact.after_insert_contact"
+	},
 }
 
 # Scheduled Tasks
